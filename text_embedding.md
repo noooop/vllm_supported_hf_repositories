@@ -1,8 +1,6 @@
 
-# Note
-
 # Text Embedding
-## Alibaba-NLP (GTE)
+## Alibaba-NLP (GTE) & Qwen
 - BertModel 
   - thenlper/gte-large 
   - thenlper/gte-base
@@ -19,6 +17,10 @@
   - Alibaba-NLP/gte-large-en-v1.5
 - ModernBertModel
   - Alibaba-NLP/gte-modernbert-base
+- Qwen3ForCausalLM
+  - Qwen/Qwen3-Embedding-0.6B
+  - Qwen/Qwen3-Embedding-4B
+  - Qwen/Qwen3-Embedding-8B
 
 ## BAAI
 - BertModel 
